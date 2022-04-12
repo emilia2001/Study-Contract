@@ -1,0 +1,10 @@
+Fundamentele programarii;6;Facultativa;Czibula Istvan
+Structuri de date si algoritmi;3;Obligatorie;Czibula Gabriela
+Programare in c;2;Facultativa;Grebla Horea
+Prelucrarea imaginilor;2;Facultativa;Bufnea Darius
+Sisteme de operare;6;Obligatorie;Boian Rares Florin
+Arhitectura sistemelor de calcul;6;Obligatorie;Vancea Alexandru
+Programare orientata obiect;4;Obligatorie;Czibula Istvan
+Programare web;6;Obligatorie;Bufnea Darius
+Retele de calculatoare;4;Obligatorie;Bufnea Darius
+Nu il asculta pe istvn;6;Obligatorie;Sergiu si Giuco
